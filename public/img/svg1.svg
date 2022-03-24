@@ -1,0 +1,30 @@
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="1920" height="1956" viewBox="0 0 1920 1956">
+  <defs>
+    <linearGradient id="linear-gradient" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4f8ae2"/>
+      <stop offset="1" stop-color="#558dfd"/>
+    </linearGradient>
+    <clipPath id="clip-path">
+      <rect id="Rectangle_1594" data-name="Rectangle 1594" width="1920" height="1956" transform="translate(-19287 -23701)" fill="#fff" stroke="#707070" stroke-width="1"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-2" x1="0.5" x2="0.5" y2="1" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#06f"/>
+      <stop offset="1" stop-color="#558dfd"/>
+    </linearGradient>
+    <clipPath id="clip-path-2">
+      <path id="Path_25662" data-name="Path 25662" d="M17631.033,6431.2s253.59-90.361,743.279,233.186,967.592-59.01,993.346-366.337,197.744-378.984,197.67-378.91c.074-.074,1.623,1222.972,1.623,1222.972s-647.307-199.386-1115.279,372.036-820.639,290.637-820.639,290.637Z" transform="translate(-17634.861 -5603.779)" fill="url(#linear-gradient)"/>
+    </clipPath>
+    <linearGradient id="linear-gradient-3" x1="0.21" y1="0.991" x2="1.018" y2="0.063" gradientUnits="objectBoundingBox">
+      <stop offset="0" stop-color="#4390fd"/>
+      <stop offset="1" stop-color="#428efd"/>
+    </linearGradient>
+  </defs>
+  <g id="Mask_Group_44" data-name="Mask Group 44" transform="translate(19287 23701)" clip-path="url(#clip-path)">
+    <g id="Group_4018" data-name="Group 4018" transform="translate(-19283 -24016.041)">
+      <path id="Path_25659" data-name="Path 25659" d="M17631.033,6431.2s253.59-90.361,743.279,233.186,814.383,61.3,965.316-238.66c132.184-262.7,204.775-105.18,204.969-104.9,1.775,2.607,4.949,5.244,6.266,6.458.141.672.176-.173,0,0,0,2.914,1.041,807.553,1.041,807.553s-632.26-192.116-1100.232,379.307-820.639,290.637-820.639,290.637Z" transform="translate(-17631.031 -5602.273)" stroke="#707070" stroke-width="1" fill="url(#linear-gradient-2)"/>
+      <g id="Mask_Group_12" data-name="Mask Group 12" transform="translate(0 -0.494)" clip-path="url(#clip-path-2)">
+        <path id="Path_25661" data-name="Path 25661" d="M10538,1965.056s535.245,362.064,1091.628-264S12458,1520.02,12458,1520.02V444.491L10538,803.436Z" transform="translate(-10538 -186.831)" fill="url(#linear-gradient-3)"/>
+      </g>
+    </g>
+  </g>
+</svg>
