@@ -101,7 +101,7 @@ const SignIn = (props) => {
                             onClick={(e) => typeOnChange(e)}
                           />
                           <label className="form-check-label" for="exampleRadios1">
-                            Super Admin
+                            Thiruppathur
                           </label>
                         </div>
                       </div>
@@ -115,7 +115,7 @@ const SignIn = (props) => {
                             onClick={(e) => typeOnChange(e)}
                           />
                           <label className="form-check-label" for="exampleRadios1">
-                            Admin
+                            Singampunari
                           </label>
                         </div>
                       </div>
@@ -129,7 +129,7 @@ const SignIn = (props) => {
                             onClick={(e) => typeOnChange(e)}
                           />
                           <label className="form-check-label" for="exampleRadios1">
-                            Faculty
+                            Other
                           </label>
                         </div>
                       </div>
